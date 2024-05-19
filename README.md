@@ -1,6 +1,6 @@
 # launchpad-kerala-newsletter
 
-✨  # Content Guidelines:
+**✨Content Guidelines:**
 
 **Introduction:** Provide a brief overview of IEEE LaunchPad Kerala and its mission.<br>
 **Call to Action:** Encourage readers to join, participate, or contribute <br>
